@@ -7,6 +7,6 @@
  Each topic room has a name, image, description, aura, and owner.
  Each user has a name, image, and aura.
  
- gradle files and API keys removed for cleanliness, so this repository will not function upon download.
+ gradle files and API keys removed for cleanliness and personal safety, so this repository will not function upon download.
 
 Front end was handled by my partner Kirtana.
