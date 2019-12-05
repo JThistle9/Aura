@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aura</string>
+    <string name="register"> Register </string>
+    <string name="login"> Login </string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="help_paragraph">Aura is a messaging app where anyone can create and/or join a group to discuss mutual interests.
+        While doing so, the app keeps track of user and group AURAs, a color coded representation
+        of that entities recent mood.</string>
+</resources>
