@@ -9,4 +9,4 @@
  
  gradle files and API keys removed for cleanliness and safety, so this repository will not function upon download.
 
-Backend was handled by Jett, Frontend was handled by Kirtana (github.com/kn-99).
+Backend was handled by Jett, Frontend was handled by Kirtana (www.github.com/kn-99).
